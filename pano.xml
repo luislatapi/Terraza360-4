@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node4" appversion="6.1.10" apprev="18007">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingroll="0" levelingpitch="0" height="2048" width="2048" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" heading="0" datetime="" tags="Terraza Rancho" latitude="" source="" longitude="" customnodeid="" info="" description="" copyright="" author="" nodeid="node1"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" enabled="1" border="1" background="1" height="20" backgroundcolor="0xffffff" borderradius="1" width="180" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" target="6.8/-2.0/70.0" pan="-61.14" url="{node2}" id="Grill" description="" skinid="ht_node" tilt="-2.76"/>
+      <hotspot title="" target="" pan="-20.99" url="{node4}" id="Alberca" description="" skinid="ht_node" tilt="-12.13"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" blendtime="1" softedge="0" zoomout="0" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomspeed="2"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" hideabout="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingroll="0" levelingpitch="0" height="2048" width="2048" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" heading="0" datetime="" tags="Terraza Rancho" latitude="" source="" longitude="" customnodeid="" info="" description="" copyright="" author="" nodeid="node2"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" enabled="1" border="1" background="1" height="20" backgroundcolor="0xffffff" borderradius="1" width="180" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" target="" pan="-338.83" url="{node1}" id="Terraza" description="" skinid="ht_node" tilt="-9.49"/>
+      <hotspot title="" target="" pan="-9.07" url="{node4}" id="Alberca" description="" skinid="ht_node" tilt="-10.58"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" blendtime="1" softedge="0" zoomout="0" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomspeed="2"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" hideabout="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingroll="0" levelingpitch="0" height="2048" width="2048" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" heading="0" datetime="" tags="Terraza Rancho" latitude="" source="" longitude="" customnodeid="" info="" description="" copyright="" author="" nodeid="node3"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" enabled="1" border="1" background="1" height="20" backgroundcolor="0xffffff" borderradius="1" width="180" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" target="" pan="-310.86" url="{node4}" id="Alberca" description="" skinid="ht_node" tilt="-4.05"/>
+      <hotspot title="" target="" pan="-269.73" url="{node1}" id="Point02" description="" skinid="ht_node" tilt="-4.58"/>
+      <hotspot title="" target="" pan="-211.76" url="{node2}" id="Point03" description="" skinid="ht_node" tilt="-5.93"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" blendtime="1" softedge="0" zoomout="0" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomspeed="2"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" hideabout="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbias="0.400" levelingroll="0" levelingpitch="0" height="2048" width="2048" levelbiashidpi="1.000" leveltilesize="510">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata title="" comment="" heading="0" datetime="" tags="Terraza Rancho" latitude="" source="" longitude="" customnodeid="" info="" description="" copyright="" author="" nodeid="node4"/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label textcolor="0x000000" bordercolor="0x000000" backgroundalpha="1" enabled="1" border="1" background="1" height="20" backgroundcolor="0xffffff" borderradius="1" width="180" textalpha="1" borderalpha="1" wordwrap="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot title="" target="" pan="-59.32" url="{node1}" id="Terraza" description="" skinid="ht_node" tilt="-5.35"/>
+      <hotspot title="" target="" pan="-326.97" url="{node3}" id="Sala de Juegos" description="" skinid="ht_node" tilt="-4.66"/>
+      <hotspot title="" target="" pan="-352.17" url="{node2}" id="Grill" description="" skinid="ht_node" tilt="-4.16"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" blendcolor="0x000000" enabled="1" zoomafteroutfov="20" blendtime="1" softedge="0" zoomout="0" zoomin="0" zoomoutpause="1" type="crossdissolve" zoomfov="20" zoomspeed="2"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" lockedwheel="0" sensitivity="8" speedwheel="1" lockedmouse="0" rubberband="0" contextfullscreen="1" lockedkeyboard="0" invertcontrol="1" hideabout="0" simulatemass="1" invertwheel="0" dblclickfullscreen="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" comment="" heading="0" datetime="" tags="" latitude="" source="" longitude="" customnodeid="" info="" description="" copyright="" author="" nodeid="master"/>
+  </masternode>
+</tour>
